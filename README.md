@@ -5,15 +5,15 @@ Overview: This case requires trainees to develop a customer segmentation to defi
 Expectations from the candidate:
 - Advanced data preparation: Build an ‘enriched’ customer profile by deriving “intelligent” KPIs such as: 
 - Monthly average purchase and cash advance amount
-              o	Purchases by type (one-off, installments)
-              o	Average amount per purchase and cash advance transaction,
-              o	Limit usage (balance to credit limit ratio),
-              o	Payments to minimum payments ratio etc (think of more types of similar analysis)
-       • Advanced reporting: Use the derived KPIs to gain insight on the customer profiles.
-       • Identification of the relationships/ affinities between services.
-       • Clustering: Apply a data reduction technique factor analysis for variable reduction technique and a clustering algorithm to reveal the behavioral segments of credit card          holders
-       • Identify cluster characteristics of the cluster using detailed profiling.
-       • Provide the strategic insights and implementation of strategies for given set of cluster characteristics
+- Purchases by type (one-off, installments)
+- Average amount per purchase and cash advance transaction,
+- Limit usage (balance to credit limit ratio),
+- Payments to minimum payments ratio etc (think of more types of similar analysis)
+- Advanced reporting: Use the derived KPIs to gain insight on the customer profiles.
+- Identification of the relationships/ affinities between services.
+- Clustering: Apply a data reduction technique factor analysis for variable reduction technique and a clustering algorithm to reveal the behavioral segments of credit card           holders
+- Identify cluster characteristics of the cluster using detailed profiling.
+- Provide the strategic insights and implementation of strategies for given set of cluster characteristics
 # DATA DICTIONARY:
 	CUST_ID: Credit card holder ID
 	BALANCE: Monthly average balance (based on daily balance averages)
